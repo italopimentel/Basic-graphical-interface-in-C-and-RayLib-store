@@ -1,4 +1,4 @@
-# Basic-graphical-interface-in-C-and-RayLib-store
+# Basic graphical interface using C and RayLib: store
 
 ### This project was done in first grade of computer engineering bachelor, it has some of this features:<br />
 
