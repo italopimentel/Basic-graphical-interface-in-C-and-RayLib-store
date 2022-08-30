@@ -11,6 +11,6 @@
 #### OBS: To set a picture to your product drag it to pictures's folder after register it on admin screen.<br />
 #### OBS2: If you click in buy a product, it will go to the shopping cart, remember to confirm on its screen to generate the proof of puchase.<br /><br />
 
-#### DEV TEAM:
-Ítalo Ryan Pimentel Horas (me)
-Rayssa Mirelle - gitHub account: @RayssaOliveiraa
+#### DEV TEAM:<br />
+#### Ítalo Ryan Pimentel Horas (me)<br />
+#### Rayssa Mirelle - gitHub account: @RayssaOliveiraa<br />
